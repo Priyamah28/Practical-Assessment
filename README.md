@@ -1,6 +1,3 @@
-I understand. Here is a professionally written `README.md` file that explains the project and the challenges you faced in a clear, human-like way. This will show your problem-solving skills and resilience in the face of real-world challenges.
-
------
 
 ### **Python Web Scraper - Internship Assessment**
 
